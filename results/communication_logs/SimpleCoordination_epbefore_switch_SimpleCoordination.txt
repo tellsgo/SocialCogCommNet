@@ -1,0 +1,12 @@
+游戏: SimpleCoordination
+回合: before_switch_SimpleCoordination
+
+场景 1:
+观察: [0.27213225 0.64769012 0.         0.        ]
+
+场景 2:
+观察: [0.8 0.2 0.  0. ]
+
+场景 3:
+观察: [0.3 0.7 0.  0. ]
+

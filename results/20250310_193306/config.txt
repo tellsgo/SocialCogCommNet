@@ -1,0 +1,17 @@
+hidden_dim: 64
+comm_dim: 16
+memory_dim: 64
+n_episodes: 1000
+max_steps: 50
+batch_size: 64
+buffer_capacity: 10000
+learning_rate: 0.001
+gamma: 0.99
+epsilon_start: 1.0
+epsilon_end: 0.05
+epsilon_decay: 200
+grad_clip: 1.0
+save_dir: ./results
+print_interval: 10
+eval_interval: 100
+use_cuda: False
